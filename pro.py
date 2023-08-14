@@ -1,4 +1,3 @@
-from this import s
 dzen = '''Beautiful is better than ugly.
 Explicit is better than implicit.
 Simple is better than complex.
