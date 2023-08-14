@@ -1,6 +1,7 @@
 from googletrans import Translator
 from pro import dzen
 t = Translator()
-print(t.translate(dzen, dest='ru').text)
+result = t.translate(dzen, dest='ru').text
+print(result)
 
 
