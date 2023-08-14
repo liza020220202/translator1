@@ -1,4 +1,6 @@
 from googletrans import Translator
-from this import s
+from pro import dzen
 t = Translator()
+r = t.translate(dzen, dest='ru')
+print(t)
 
